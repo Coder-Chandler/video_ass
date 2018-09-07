@@ -1,0 +1,12 @@
+11:18:53 break
+11:18:53 GetFileMd5运行时间：0s
+11:18:53 file_MD5: 79186a698c5831b3b800ce257e6d068e
+11:18:53 ass.mp4 MD5 value changed!
+11:18:53 MD5_0: 79186a698c5831b3b800ce257e6d068e
+11:18:53 MD5_changed: None
+11:21:46 break
+11:21:46 GetFileMd5运行时间：0s
+11:21:46 file_MD5: f877924d0d163b573373f270733cf009
+11:21:46 ass.mp4 MD5 value changed!
+11:21:46 MD5_0: f877924d0d163b573373f270733cf009
+11:21:46 MD5_changed: None
